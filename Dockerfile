@@ -1,4 +1,4 @@
-FROM node:6.10.2
+FROM node:latest
 
 ###
 # Chrome and xvfb for browser testing
